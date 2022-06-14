@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/xhuliomihali/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://medium.com/@mihalijulio">
+    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+  </a>
+</div>
+
+<img src="https://komarev.com/ghpvc/?username=Julio-M&style=flat-square&color=blue" alt=""/>
+
 <!--
 **Julio-M/Julio-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
